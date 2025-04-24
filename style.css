@@ -3,10 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+.bottoni{
+    padding:10px;
+}
 button{
     border:none;
     border-radius: 5px;
     padding:5px 8px;
+}
+hr{
+    border-color:#8080802d;
+    height: 1px;
 }
 header{
     background-color: white;
@@ -36,7 +43,6 @@ header{
     margin: 0 auto;
     max-width: 1200px;
     height: 80%;
-    padding: 20px;
     background-color: white;
 }
 
