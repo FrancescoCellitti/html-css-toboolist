@@ -3,9 +3,21 @@
     padding: 0;
     box-sizing: border-box;
 }
+button{
+    border:none;
+    border-radius: 5px;
+    padding:5px 8px;
+}
 header{
     background-color: white;
     margin-bottom: 10px;
+}
+.button1{
+    background-color: cyan;
+    color:wheat
+}
+.button2 .text{
+    color:grey
 }
 #icons{
     height: 20px;
@@ -51,4 +63,30 @@ body{
 summary{
     margin-bottom: 5px;
     margin-top: 5px;
+}
+.tag{
+    border-radius: 7px;
+    padding:2px 6px;
+    display: inline-block;
+    color: white;
+    font-size: 12px;
+    margin: 5px;
+}
+.celeste{
+    background-color: rgb(3, 143, 229);
+}
+.violet{
+    background-color: blueviolet;
+}
+.verde-acqua{
+    background-color: rgb(4, 233, 156);
+}
+.orange{
+    background-color: orange;
+}
+.pink{
+    background-color: rgb(224, 98, 119);
+}
+.green{
+    background-color: green;
 }
