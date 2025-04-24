@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: white;
+    margin-bottom: 10px;
+}
+.titolo{
+    display: flex;
+    align-items: center;
+}
+.immagine{
+    width: 50px;
+    margin-right: 10px;
+}
+main{
+    /*background-color: blue;*/
+}
+#container{
+    margin: 0 auto;
+    max-width: 1200px;
+    height: 80%;
+    padding: 10px;
+    background-color: white;
+}
+
+ul{
+    list-style: none;
+    padding: 1em;
+}
+hr{
+    width: auto;
+    margin-top: 5px;
+}
+
+body{
+    background-color:rgba(128, 128, 128, 0.078);
+}
